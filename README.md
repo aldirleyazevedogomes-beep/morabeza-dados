@@ -37,4 +37,4 @@ python -m morabeza.resumo data/vendas_amostra.csv
 ##Sobre mim
 Formando: Aldirley Fortes Barros de Azevedo Gomes
 Ilha favorita: Ilha do Sal
-Nova  Edeição ReadMe
+Nova  Edição ReadMe
